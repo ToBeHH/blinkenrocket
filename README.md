@@ -115,6 +115,15 @@ Animation by [ToBeHH](https://github.com/ToBeHH/).
 
 
 
+## Smiley 3
+Another smiley face.
+
+[Install](http://blinkenrocket.de/webedit-react/?s=eyJkZWxheSI6MCwicmVwZWF0IjowLCJkaXJlY3Rpb24iOjAsImlkIjoiNzJkZTkxYjEtMjFhYi00OTcwLThiNmYtNjNhZGMzN2U3ZTI3IiwibmFtZSI6IlNtaWxleSAzIiwic3BlZWQiOjUsImNyZWF0aW9uRGF0ZSI6MTU0NzMxNTMwMSwidHlwZSI6InBpeGVsIiwiYW5pbWF0aW9uIjp7ImRhdGEiOls2MCw2NiwxNjksMTMzLDEzMywxNjksNjYsNjAsNjAsNjYsMTY5LDEzMywxMzMsMTY5LDY2LDYwLDYwLDY2LDE2OSwxMzMsMTMzLDE2OSw2Niw2MCw2MCw2NiwxNjksMTMzLDEzMywxNjksNjYsNjAsNjAsNjYsMTY5LDEzMywxMzMsMTM3LDY2LDYwXSwiY3VycmVudEZyYW1lIjo0LCJsZW5ndGgiOjUsImZyYW1lcyI6NX19)
+
+Image from https://learn.adafruit.com/animating-multiple-led-backpacks/overview.
+
+
+
 ## Smiley full
 A smiley face, which blinks from time to time
 

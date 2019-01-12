@@ -28,7 +28,7 @@ Animation by [ToBeHH](https://github.com/ToBeHH/).
 ## I love XING
 Shows first an "I", then a heart and then the XING logo and finally a blank screen.
 
-[Install](http://blinkenrocket.de/webedit-react/?s=eyJkZWxheSI6MCwicmVwZWF0IjowLCJkaXJlY3Rpb24iOjAsImlkIjoiMGFlMDhlZmUtYjA2OC00Y2EwLWIzMGQtNmIxZjlkODBlMWRiIiwibmFtZSI6IkkgbG92ZSBYSU5HIiwic3BlZWQiOjMsImNyZWF0aW9uRGF0ZSI6MTU0NzMwNzg2MywidHlwZSI6InBpeGVsIiwiYW5pbWF0aW9uIjp7ImRhdGEiOlswLDAsNjYsMTI2LDEyNiw2NiwwLDAsNTYsMTI0LDI1NCwxMjcsMTI3LDI1NCwxMjQsNTYsNCw0NCwyNCwwLDI4LDU0LDk5LDE5MixbMCwwLDAsMCwwLDAsMCwwXV0sImN1cnJlbnRGcmFtZSI6MywibGVuZ3RoIjo0LCJmcmFtZXMiOjR9fQ%3D%3D)
+[Install](http://blinkenrocket.de/webedit-react/?s=eyJkZWxheSI6MCwicmVwZWF0IjowLCJkaXJlY3Rpb24iOjAsImlkIjoiNGNiNGE5YzctYWNiNS00NTIxLWEzYjktYzNkNzc2MTk0ZDU3IiwibmFtZSI6IkkgbG92ZSBYSU5HIiwic3BlZWQiOjIsImNyZWF0aW9uRGF0ZSI6MTU0NzMxNDA0NSwidHlwZSI6InBpeGVsIiwiYW5pbWF0aW9uIjp7ImRhdGEiOlswLDAsNjYsMTI2LDEyNiw2NiwwLDAsNTYsMTI0LDI1NCwxMjcsMTI3LDI1NCwxMjQsNTYsNCw0NCwyNCwwLDI4LDU0LDk5LDE5MiwwLDAsMCwwLDAsMCwwLDBdLCJjdXJyZW50RnJhbWUiOjAsImxlbmd0aCI6NCwiZnJhbWVzIjo0fX0%3D)
 
 Animation by [ToBeHH](https://github.com/ToBeHH/).
 
@@ -90,6 +90,7 @@ Animation by [ToBeHH](https://github.com/ToBeHH/).
 
 ## Squares
 Animation with some squares.
+
 [Install](http://blinkenrocket.de/webedit-react/?s=eyJkZWxheSI6MCwicmVwZWF0IjowLCJkaXJlY3Rpb24iOjAsImlkIjoiM2M3MTBhNWEtYTkzNS00MzFhLTg0ZTctNWVmOWI0MTEzNDEyIiwibmFtZSI6IlNxdWFyZXMiLCJzcGVlZCI6MTAsImNyZWF0aW9uRGF0ZSI6MTU0NjAyMDkyOSwidHlwZSI6InBpeGVsIiwiYW5pbWF0aW9uIjp7ImRhdGEiOlswLDAsMCwyNCwyNCwwLDAsMCwwLDAsNjAsMzYsMzYsNjAsMCwwLDAsMTI2LDY2LDY2LDY2LDY2LDEyNiwwLDI1NSwxMjksMTI5LDE1MywxNTMsMTI5LDEyOSwyNTVdLCJjdXJyZW50RnJhbWUiOjAsImxlbmd0aCI6NCwiZnJhbWVzIjo0fX0%3D)
 
 Animation by [ToBeHH](https://github.com/ToBeHH/).

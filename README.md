@@ -5,6 +5,9 @@ Currently these are all animations, which I either created by myself or found so
 
 In order to add the animations to your own [Blinkenrocket editor](http://blinkenrocket.de/webedit-react/), just click on the `Install` link.
 
+Some more animations can be found [here by LeonGeorgi](https://github.com/LeonGeorgi/blinkenrocket).
+[maggo](https://github.com/maggo/blinkblink) has created a converter from animated GIFs to blinkenrocket URLs.
+
 
 
 ## Birds

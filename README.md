@@ -113,7 +113,7 @@ Animation by [ToBeHH](https://github.com/ToBeHH/).
 ## Pacman
 The pacman eating stuff.
 
-![Pacman animation](images/Pacman.gif)
+![Pacman animation](images/PAC_man_.gif)
 
 [Install](http://blinkenrocket.de/webedit-react/?s=eyJkZWxheSI6MCwicmVwZWF0IjowLCJkaXJlY3Rpb24iOjAsImlkIjoiOTFmYmJkMDEtZDAyNS00NmFjLTllOTMtYTRmMzBkOTQ3YmVlIiwibmFtZSI6IlBBQyBtYW4gIiwic3BlZWQiOjIsImNyZWF0aW9uRGF0ZSI6MTU0NjExMDg2NSwidHlwZSI6InBpeGVsIiwiYW5pbWF0aW9uIjp7ImRhdGEiOlsyNCwxMjYsMTI2LDI1NSwyNTUsMTAyLDY2LDAsMjQsMTI2LDEyNiwyNTUsMjU1LDEyNiwxMjYsMjRdLCJjdXJyZW50RnJhbWUiOjAsImxlbmd0aCI6MiwiZnJhbWVzIjoyfX0)
 

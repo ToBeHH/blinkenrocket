@@ -231,6 +231,14 @@ Animation by [ToBeHH](https://github.com/ToBeHH/).
 
 
 
+## Up Arrows
+Shows a upwards flying arrow.
+![Up animation](images/Up.gif)
+
+[Install](http://blinkenrocket.de/webedit-react/?s=eyJkZWxheSI6MCwicmVwZWF0IjowLCJkaXJlY3Rpb24iOjAsImlkIjoiOWM5NDI5OGMtYjgzYy00ZTEwLWE1ZGMtODJlNWZiZjkxZmFiIiwibmFtZSI6IlVwIiwic3BlZWQiOjEzLCJjcmVhdGlvbkRhdGUiOjE1Nzk1MjM4NjQsInR5cGUiOiJwaXhlbCIsImFuaW1hdGlvbiI6eyJkYXRhIjpbNSwxMCwyMCw0MCw0MCwyMCwxMCw1LDEwLDIwLDQwLDgwLDgwLDQwLDIwLDEwLDIwLDQwLDgwLDE2MCwxNjAsODAsNDAsMjAsNDAsODAsMTYwLDY1LDY1LDE2MCw4MCw0MCw4MCwxNjAsNjUsMTMwLDEzMCw2NSwxNjAsODAsMTYwLDY1LDEzMCw1LDUsMTMwLDY1LDE2MCw2NSwxMzAsNSwxMCwxMCw1LDEzMCw2NSwxMzAsNSwxMCwyMCwyMCwxMCw1LDEzMF0sImN1cnJlbnRGcmFtZSI6MCwibGVuZ3RoIjo4LCJmcmFtZXMiOjh9LCJtb2RpZmllZEF0IjoiMjAyMC0wMS0yMFQxMjo0MjoyMy4xMTNaIn0%3D)
+
+
+
 # Contributing
 
 You are wery welcomed to add your own animations via Pull Requests. To do so:
